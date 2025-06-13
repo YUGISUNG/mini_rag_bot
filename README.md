@@ -20,6 +20,7 @@ A lightweight Retrieval-Augmented Generation (RAG) chatbot powered by [LangChain
 
 | File               | Purpose                                      |
 |--------------------|----------------------------------------------|
+| `.env`             | Required for your OpenAI API key (not included)|
 | `rag_bot.py`       | Main script that runs the bot                |
 | `knowledge.txt`    | Knowledge source for answering queries       |
 | `.gitignore`       | Prevents secret files like `.env` from pushing |
@@ -33,4 +34,4 @@ A lightweight Retrieval-Augmented Generation (RAG) chatbot powered by [LangChain
    ```bash
    git clone https://github.com/YUGISUNG/mini_rag_bot.git
    cd mini_rag_bot
-Add README for Mini RAG Bot
+
