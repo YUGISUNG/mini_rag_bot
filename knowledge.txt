@@ -1,0 +1,4 @@
+LangChain is a powerful Python framework that helps you build applications using language models.
+It supports Retrieval-Augmented Generation (RAG) to allow LLMs to use your own custom data.
+You can connect LangChain to OpenAI, HuggingFace, ChromaDB, and more.
+LangChain chains are composable, letting you combine prompt templates, retrievers, and LLMs.
